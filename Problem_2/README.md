@@ -93,8 +93,8 @@ python problem2.py
 
 ### 예상 출력 (터미널)
 
-![터미널 결과](/home/ji/Desktop/homework/4week/Problem_2/output/problem2terminal.png)
-![터미널 결과2](/home/ji/Desktop/homework/4week/Problem_2/output/problem2terminal2.png)
+![터미널 결과](Problem_2/output/problem2terminal.png)
+![터미널 결과2](Problem_2/output/problem2terminal2.png)
 
 ---
 
