@@ -136,7 +136,6 @@ cd /path/to/4week/Problem_1
 """
 문제 1: SIFT를 이용한 특징점 검출 및 시각화
 과목: 컴퓨터비전 L04 Local Feature - Homework
-교수: 서정일 (동아대학교 컴퓨터AI공학부)
 """
 
 import cv2 as cv          # OpenCV 라이브러리 - 컴퓨터비전 핵심 기능 제공
