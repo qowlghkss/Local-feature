@@ -98,8 +98,8 @@ python problem3.py
 
 ### 예상 출력 (터미널)
 
-![터미널 결과](Problem_3/output/problem3terminal.png)
-![터미널 결과2](Problem_3/output/problem3terminal2.png)
+![터미널 결과](output/problem3terminal.png)
+![터미널 결과2](output/problem3terminal2.png)
 
 ---
 

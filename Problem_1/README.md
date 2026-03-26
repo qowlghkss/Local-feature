@@ -88,8 +88,8 @@ cd /path/to/4week/Problem_1
 ```
 ### 예상 출력 (터미널)
 
-![터미널 결과](Problem_1/output/problem1terminal.png)
-![터미널 결과2](Problem_1/output/problem1terminal2.png)
+![터미널 결과](output/problem1terminal.png)
+![터미널 결과2](output/problem1terminal2.png)
 
 ---
 
