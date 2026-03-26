@@ -85,10 +85,11 @@ pip install -r requirements.txt
 
 # 4. Problem_1 디렉토리로 이동 후 실행
 cd /path/to/4week/Problem_1
-
+```
 ### 예상 출력 (터미널)
-![터미널 결과](/home/ji/Desktop/homework/4week/Problem_1/output/problem1terminal.png)
-![터미널 결과2](/home/ji/Desktop/homework/4week/Problem_1/output/problem1terminal2.png)
+![터미널 결과](/home/ji/Desktop/homework/4week/Problem_2/output/problem2terminal.png)
+![터미널 결과2](/home/ji/Desktop/homework/4week/Problem_2/output/problem2terminal2.png)
+
 ---
 
 ## 4. 중간 결과 (Intermediate Results)
